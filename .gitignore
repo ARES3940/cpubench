@@ -1,0 +1,13 @@
+# Build outputs and editor files.
+build/
+build-*/
+cmake-build-*/
+out/
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+.vscode/
+.idea/
+.DS_Store
